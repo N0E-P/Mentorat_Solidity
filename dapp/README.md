@@ -1,4 +1,4 @@
-titre - Connecter metamask
+titre - Connecter metamask ✅
 
 Bouton minter un nft
     animation chargement
