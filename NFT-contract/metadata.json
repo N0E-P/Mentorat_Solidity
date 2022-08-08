@@ -1,0 +1,18 @@
+{
+    "title": "Mentorat Solidity - DRENGR",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Mentorat Solidity - DRENGR"
+        },
+        "description": {
+            "type": "string",
+            "description": "Un magnifique NFT"
+        },
+        "image": {
+            "type": "string",
+            "description": "ipfs://bafybeiezdjoeytwy3gxri2q4ok4b6hgr47pm6i33jogd2z6fo5hkxy6oku/?filename=Mentorat%20Solidity%20DRENGR.png"
+        }
+    }
+}
