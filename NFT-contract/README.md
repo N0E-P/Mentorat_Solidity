@@ -22,5 +22,5 @@ Prix pour le mint ✅
 erreur si prix pas suffisant ✅
 Pourcentage de royalties modifiable ✅
 Reveal ~✅~
-Dapp
-Tout tester
+Dapp ✅
+Tout tester ✅

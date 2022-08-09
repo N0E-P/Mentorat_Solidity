@@ -1,6 +1,3 @@
-titre - Connecter metamask ✅
+Pour utiliser la dapp sur http://localhost:3000/ :
 
-Bouton minter un nft
-    animation chargement
-
-page validé + bouton "minter un autre nft"
+`yarn run dev`
